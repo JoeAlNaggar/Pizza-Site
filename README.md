@@ -1,2 +1,2 @@
-# Pizza_Site_Task
-Pizza Website 
+# Website_Task
+a website for a restaurant that's mainly specialized in pizza.
